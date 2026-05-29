@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Python virtual environments
+venv/
+KarooEnv/
+.env/
+__pycache__/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python artifacts
+*.pyc
+*.pyo
+*.pyd
+
+# Generated outputs
+*.csv
+*.log
