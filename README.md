@@ -65,7 +65,7 @@ This ensures the report can be regenerated on demand with no manual intervention
 ## Repository Structure
 
 ```text
-karoo-capstone1-Zuhayr/
+karoo-capstone2/
 │
 ├── schema.sql
 │   └── Database schema definitions (DDL)
