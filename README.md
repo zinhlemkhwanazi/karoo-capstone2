@@ -17,7 +17,7 @@ This project delivers an automated **Q4 regional performance report** for **Karo
 ---
 
 ## Tech Stack
-- **Database:** MySQL Server 2022 (Windows Authentication)
+- **Database:** Postgresql 15
 - **Language:** Python 3.12.5
 - **Libraries:** pandas, pyodbc,SQLAlchemy
 - **Data Storage:** CSV (input & reporting)
